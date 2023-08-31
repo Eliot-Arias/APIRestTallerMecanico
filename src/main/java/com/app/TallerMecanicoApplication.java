@@ -8,6 +8,7 @@ public class TallerMecanicoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TallerMecanicoApplication.class, args);
+		
 	}
 
 }
